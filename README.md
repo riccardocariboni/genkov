@@ -1,9 +1,8 @@
 # genkov
-### _Your Name <your.name@example.com>_
 
-This is a project to do ... something.
+A general purpose Markov Chain library for Common Lisp.
 
 ## License
 
-Specify license here
+©2024 Riccardo Cariboni
 
